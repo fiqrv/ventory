@@ -38,7 +38,7 @@ Before you begin, make sure you have the following installed on your system:
    - Click "Databases" and create a new database for your project.
 
 5. **Configure Database Connection:**
-   - In your project directory, locate the configuration file (e.g., `config.php`) that contains database connection details.
+   - In your project directory, locate the configuration file (`php_action/connect.php`) that contains database connection details.
    - Update the database host, username, password, and database name to match your XAMPP configuration.
 
 6. **Access Your Project:**
